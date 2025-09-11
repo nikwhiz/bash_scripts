@@ -32,3 +32,5 @@ then
 	mv $i.gz $path/archive
 fi
 done
+
+echo "$(date)"
