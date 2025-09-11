@@ -21,4 +21,4 @@ comment
 
 
 
-echo "Hello"
+ech "Hello"
