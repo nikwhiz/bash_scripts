@@ -16,3 +16,9 @@ z = zero-I/O mode (just check if port is open)
 
 -w3 = timeout after 3 seconds
 comment
+
+
+
+
+
+echo "Hello"
